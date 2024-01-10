@@ -7,7 +7,7 @@
 
 def add(list, item):
   pass
-
+  list.append(item)
 
 def remove(list, index):
   pass
@@ -18,9 +18,8 @@ def clear(list):
 
 
 def print_list(list):
-  pass
-
-
+  pass 
+  print.list(item)
 list = []
 print("List is empty now, what you want to do?")
 while True:
